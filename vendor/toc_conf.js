@@ -16,5 +16,5 @@ var jquery_ztree_toc_opts = {
 }
 var markdown_panel_style = {
     'width':'70%',  //右侧文本显示框占用宽度 326px or 70%
-    'margin-left':'326px' //左侧列表显示框占用宽度 326px or 25%
+    'margin-left':'25%' //左侧列表显示框占用宽度 326px or 25%
 };
